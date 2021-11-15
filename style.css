@@ -1,0 +1,162 @@
+body {
+  background-color: #4b5877;
+}
+ h1 {
+  color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+
+ }
+
+.p1 {
+  color: white;
+  font-weight: 900;
+  font-size: medium;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+
+}
+.image {
+  left: 925px;
+  width: 400px;
+    position: relative;
+}
+
+.image1 {
+  content:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4RE_8vMZx0l1Yi5ZhF5fB-TgkOwi_Rse0UUBUxgTEfcafID7dau0TErLkMJT1f3Qj3G0:https://petapixel.com/assets/uploads/2013/09/childlabor6.jpg&usqp=CAU);
+  position: relative;
+
+}
+
+.h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.p2 {
+  color: white;
+  font-weight: 900;
+  font-size: medium;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: breakword;
+  font-family: "Times New Roman", Times, serif;
+  bottom: 75px;
+  margin-top: -175px;
+}
+
+.p3 {
+  color: white;
+  font-weight: 900;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+  bottom: -200px;
+}
+
+}
+
+.wow {
+  content:url(https://assets.teenvogue.com/photos/5afb120697dfc67c4ca037b5/16:9/w_2560%2Cc_limit/Lede.jpg)
+  position: relative;
+  left: 500px;
+  width: 200px;
+}
+
+.p4 {
+  color: white;
+  font-weight: 900;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+
+}
+.button {
+background-color: #5d91ff;
+border: none;
+color: white;
+padding: 10px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 15px;
+margin: 4px 2px;
+cursor: pointer;
+font-family: Arial, Helvetica, sans-serif;
+transition-duration: 0.4s;
+}
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.button:hover {opacity: 1}
+
+.p4 {
+  color: white;
+  font-weight: 900;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+}
+.p5 {
+  color: white;
+  font-weight: 900;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.reference {
+  color: white;
+  font-weight: 900;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 1000px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
